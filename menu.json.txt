@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Espresso",
+      "description": "Rich and bold Italian espresso shot",
+      "price": 120,
+      "category": "hot"
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "Espresso with steamed milk and foam",
+      "price": 150,
+      "category": "hot"
+    },
+    {
+      "id": 3,
+      "name": "Caffe Latte",
+      "description": "Smooth espresso with steamed milk",
+      "price": 160,
+      "category": "hot"
+    },
+    {
+      "id": 4,
+      "name": "Cold Brew",
+      "description": "Smooth cold-steeped coffee",
+      "price": 145,
+      "category": "cold"
+    },
+    {
+      "id": 5,
+      "name": "Caramel Macchiato",
+      "description": "Espresso with vanilla and caramel",
+      "price": 175,
+      "category": "hot"
+    },
+    {
+      "id": 6,
+      "name": "Americano",
+      "description": "Espresso with hot water",
+      "price": 130,
+      "category": "hot"
+    },
+    {
+      "id": 7,
+      "name": "Iced Latte",
+      "description": "Chilled espresso with cold milk",
+      "price": 165,
+      "category": "cold"
+    },
+    {
+      "id": 8,
+      "name": "Mocha Frappe",
+      "description": "Blended coffee with chocolate",
+      "price": 180,
+      "category": "cold"
+    },
+    {
+      "id": 9,
+      "name": "Croissant",
+      "description": "Buttery, flaky French pastry",
+      "price": 95,
+      "category": "pastries"
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Muffin",
+      "description": "Rich chocolate chip muffin",
+      "price": 85,
+      "category": "pastries"
+    },
+    {
+      "id": 11,
+      "name": "Blueberry Cheesecake",
+      "description": "Creamy cheesecake with blueberries",
+      "price": 120,
+      "category": "pastries"
+    },
+    {
+      "id": 12,
+      "name": "Cinnamon Roll",
+      "description": "Warm cinnamon roll with icing",
+      "price": 100,
+      "category": "pastries"
+    }
+  ]
+}

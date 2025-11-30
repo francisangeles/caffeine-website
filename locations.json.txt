@@ -1,0 +1,25 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "Caffeine BGC",
+      "address": "26th Street corner 7th Avenue, BGC, Taguig City",
+      "hours": "6:00 AM - 10:00 PM",
+      "phone": "(02) 8555-1234"
+    },
+    {
+      "id": 2,
+      "name": "Caffeine Makati",
+      "address": "Ayala Avenue, Makati City",
+      "hours": "7:00 AM - 9:00 PM",
+      "phone": "(02) 8555-5678"
+    },
+    {
+      "id": 3,
+      "name": "Caffeine Quezon City",
+      "address": "Tomas Morato Avenue, Quezon City",
+      "hours": "6:30 AM - 10:00 PM",
+      "phone": "(02) 8555-9012"
+    }
+  ]
+}

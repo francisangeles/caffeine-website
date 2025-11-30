@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <id>1</id>
+        <n>Espresso</n>
+        <description>Rich and bold Italian espresso shot</description>
+        <price>120</price>
+        <category>hot</category>
+    </item>
+    <item>
+        <id>2</id>
+        <n>Cappuccino</n>
+        <description>Espresso with steamed milk and foam</description>
+        <price>150</price>
+        <category>hot</category>
+    </item>
+    <item>
+        <id>3</id>
+        <n>Caffe Latte</n>
+        <description>Smooth espresso with steamed milk</description>
+        <price>160</price>
+        <category>hot</category>
+    </item>
+    <item>
+        <id>4</id>
+        <n>Cold Brew</n>
+        <description>Smooth cold-steeped coffee</description>
+        <price>145</price>
+        <category>cold</category>
+    </item>
+    <item>
+        <id>5</id>
+        <n>Caramel Macchiato</n>
+        <description>Espresso with vanilla and caramel</description>
+        <price>175</price>
+        <category>hot</category>
+    </item>
+    <item>
+        <id>6</id>
+        <n>Americano</n>
+        <description>Espresso with hot water</description>
+        <price>130</price>
+        <category>hot</category>
+    </item>
+    <item>
+        <id>7</id>
+        <n>Iced Latte</n>
+        <description>Chilled espresso with cold milk</description>
+        <price>165</price>
+        <category>cold</category>
+    </item>
+    <item>
+        <id>8</id>
+        <n>Mocha Frappe</n>
+        <description>Blended coffee with chocolate</description>
+        <price>180</price>
+        <category>cold</category>
+    </item>
+    <item>
+        <id>9</id>
+        <n>Croissant</n>
+        <description>Buttery, flaky French pastry</description>
+        <price>95</price>
+        <category>pastries</category>
+    </item>
+    <item>
+        <id>10</id>
+        <n>Chocolate Muffin</n>
+        <description>Rich chocolate chip muffin</description>
+        <price>85</price>
+        <category>pastries</category>
+    </item>
+    <item>
+        <id>11</id>
+        <n>Blueberry Cheesecake</n>
+        <description>Creamy cheesecake with blueberries</description>
+        <price>120</price>
+        <category>pastries</category>
+    </item>
+    <item>
+        <id>12</id>
+        <n>Cinnamon Roll</n>
+        <description>Warm cinnamon roll with icing</description>
+        <price>100</price>
+        <category>pastries</category>
+    </item>
+</menu>
