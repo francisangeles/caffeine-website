@@ -4,22 +4,23 @@
       "id": 1,
       "name": "Caffeine BGC",
       "address": "26th Street corner 7th Avenue, BGC, Taguig City",
-      "hours": "6:00 AM - 10:00 PM",
-      "phone": "(02) 8555-1234"
+      "hours": "9:00 AM - 10:00 PM",
+      "phone": "(+63) 9812547745"
     },
     {
       "id": 2,
       "name": "Caffeine Makati",
       "address": "Ayala Avenue, Makati City",
-      "hours": "7:00 AM - 9:00 PM",
-      "phone": "(02) 8555-5678"
+      "hours": "9:00 AM - 9:00 PM",
+      "phone": "(+63) 9612555431"
     },
     {
       "id": 3,
-      "name": "Caffeine Quezon City",
-      "address": "Tomas Morato Avenue, Quezon City",
-      "hours": "6:30 AM - 10:00 PM",
-      "phone": "(02) 8555-9012"
+      "name": "Caffeine Muntinlupa City",
+      "address": "Festival Mall Alabang, Muntinlupa City",
+      "hours": "10:30 AM - 9:00 PM",
+      "phone": "(+63) 9124449224"
     }
   ]
 }
+
